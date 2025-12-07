@@ -3,7 +3,7 @@ import java.util.Scanner;
 /**
  * Write a description of class scenario here.
  *
- * @author (your name)
+ * @author Kristin
  * @version (a version number or a date)
  */
 public class scenario
